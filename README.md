@@ -25,8 +25,8 @@
 >
 > Assignment3
 > Deep Learning 모델 구현 및 적용 과제
->> -LSTM모델을 구현하고 attention 기법을 활용하여 향상된 성능 확인
->> -cycleGAN 모델을 구현하고 MNIST, SVHN dataset train
+>> - LSTM모델을 구현하고 attention 기법을 활용하여 향상된 성능 확인
+>> - cycleGAN 모델을 구현하고 MNIST, SVHN dataset train
 
 > [프로젝트 파일](https://github.com/Kimgeonw00/EE214)
 
