@@ -73,7 +73,43 @@
 >
 > [프로젝트 파일](https://github.com/Kimgeonw00/IE343/tree/main/Kaggle_project)
 
+# 📒Study
 
+## 1. graph model
+> 기본적인 그래프 모델 구현
+> 
+> 1. GNN
+> 
+>> - 가장 기본적인 그래프 모델
+>> - Adjacency matrix와 hidden feature 간의 행렬 곱 연산
+
+>
+> 2. GCN
+> 
+>> - GNN + 정규화
+>> - 차수 행렬 D를 통한 정규화 연산 추가
+>> - 이를 통해 노드 간 분산을 줄이고, 학습 안정화
+>
+> 3. GAT
+> 
+>> - attention score 도입
+>> - 노드 간 메세지를 전달할 시 attention score 가중치를 고려
+>> - softmax 연산 시 값이 너무 작으면 학습 X
+> 
+> 4. GraphSAGE
+>
+>> - sampling + aggregate
+>> - 모든 연결에 대한 정보 전달 X
+>> - sampling을 통한 mini-batch 에 대해서만 aggregate
+>> - 이를 통해 연산량을 크게 줄일 수 있음
+> [프로젝트 파일](https://github.com/Kimgeonw00/EE214)
+
+<br />
+
+## 2. algorithm
+> 백준 알고리즘 공부
+>
+> [프로젝트 파일](https://github.com/Kimgeonw00/beakjoon)
 <br />
 <!--
 ## Hi there 👋
