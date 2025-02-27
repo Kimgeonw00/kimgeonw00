@@ -102,6 +102,7 @@
 >> - 모든 연결에 대한 정보 전달 X
 >> - sampling을 통한 mini-batch 에 대해서만 aggregate
 >> - 이를 통해 연산량을 크게 줄일 수 있음
+>
 > [프로젝트 파일](https://github.com/Kimgeonw00/EE214)
 
 <br />
